@@ -1,0 +1,4 @@
+tutor/
+env/
+*.pyc
+.ipynb_checkpoints/
